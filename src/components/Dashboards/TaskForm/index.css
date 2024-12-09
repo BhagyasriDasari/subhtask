@@ -1,0 +1,11 @@
+/* Styles for Task Form */
+.task-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.task-form input, .task-form textarea, .task-form button {
+    padding: 10px;
+    font-size: 16px;
+}
